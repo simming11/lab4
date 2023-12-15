@@ -21,10 +21,10 @@ class _FirstpageState extends State<Firstpage> {
         child: Column(
           children: [
             radioMenulist("แมว","50"),
-            radioMenulist("แมว","50"),
-            radioMenulist("แมว","50"),
-            radioMenulist("แมว","50"),
-            radioMenulist("แมว","50"),
+            radioMenulist("witr","50"),
+            radioMenulist("แมว2","50"),
+            radioMenulist("แมว5","50"),
+            radioMenulist("แมว5","50"),
             const Divider(),
             CheckboxListTile(
               controlAffinity: ListTileControlAffinity.leading,
